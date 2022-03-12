@@ -22,7 +22,6 @@ int main() {
 	sum1 /= 256;
 
 	// f2
-
 	int sum2 = division(NUM3, NUM4);
 
 	// f3
